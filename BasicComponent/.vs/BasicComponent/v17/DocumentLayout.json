@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3EFF5F43-E668-4E74-8A5C-1CA15E7D4C2C}|Reusable Component\\Reusable Component.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\basiccomponent\\reusable component\\pages\\mybutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EFF5F43-E668-4E74-8A5C-1CA15E7D4C2C}|Reusable Component\\Reusable Component.csproj|solutionrelative:reusable component\\pages\\mybutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFF5F43-E668-4E74-8A5C-1CA15E7D4C2C}|Reusable Component\\Reusable Component.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\basiccomponent\\reusable component\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EFF5F43-E668-4E74-8A5C-1CA15E7D4C2C}|Reusable Component\\Reusable Component.csproj|solutionrelative:reusable component\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{551D8764-B37F-4178-B4C4-FCE470B617CB}|ComponentParameters\\ComponentParameters.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\basiccomponent\\componentparameters\\pages\\messagecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{551D8764-B37F-4178-B4C4-FCE470B617CB}|ComponentParameters\\ComponentParameters.csproj|solutionrelative:componentparameters\\pages\\messagecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -48,18 +56,43 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\Reusable Component\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Reusable Component\\Pages\\Index.razor",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\Reusable Component\\Pages\\Index.razor",
+              "RelativeToolTip": "Reusable Component\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T18:21:41.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyButton.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\Reusable Component\\Pages\\MyButton.razor",
+              "RelativeDocumentMoniker": "Reusable Component\\Pages\\MyButton.razor",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\Reusable Component\\Pages\\MyButton.razor",
+              "RelativeToolTip": "Reusable Component\\Pages\\MyButton.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T18:19:46.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\ComponentParameters\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "ComponentParameters\\Pages\\Index.razor",
               "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\ComponentParameters\\Pages\\Index.razor",
               "RelativeToolTip": "ComponentParameters\\Pages\\Index.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T18:06:52.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T18:06:52.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MessageComponent.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\ComponentParameters\\Pages\\MessageComponent.razor",
               "RelativeDocumentMoniker": "ComponentParameters\\Pages\\MessageComponent.razor",
@@ -72,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\BasicComponent\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "BasicComponent\\Pages\\Index.razor",
@@ -80,12 +113,11 @@
               "RelativeToolTip": "BasicComponent\\Pages\\Index.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T18:00:07.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T18:00:07.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\BasicComponent\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "BasicComponent\\Shared\\NavMenu.razor",
@@ -93,12 +125,11 @@
               "RelativeToolTip": "BasicComponent\\Shared\\NavMenu.razor",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T17:49:56.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T17:49:56.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CounterManual.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\BasicComponent\\Pages\\CounterManual.razor",
               "RelativeDocumentMoniker": "BasicComponent\\Pages\\CounterManual.razor",
@@ -106,8 +137,7 @@
               "RelativeToolTip": "BasicComponent\\Pages\\CounterManual.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T17:44:17.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T17:44:17.62Z"
             }
           ]
         }

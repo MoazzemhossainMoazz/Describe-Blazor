@@ -1,0 +1,36 @@
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\Reusable Component.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\Reusable Component.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\Reusable Component.AssemblyInfo.cs
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\Reusable Component.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\Reusable Component.MvcApplicationPartsAssemblyInfo.cache
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\Reusable Component.RazorAssemblyInfo.cache
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\Reusable Component.RazorAssemblyInfo.cs
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\Reusable Component.sourcelink.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\bin\Debug\net7.0\appsettings.Development.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\bin\Debug\net7.0\appsettings.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\bin\Debug\net7.0\Reusable Component.staticwebassets.runtime.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\bin\Debug\net7.0\Reusable Component.staticwebassets.endpoints.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\bin\Debug\net7.0\Reusable Component.exe
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\bin\Debug\net7.0\Reusable Component.deps.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\bin\Debug\net7.0\Reusable Component.runtimeconfig.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\bin\Debug\net7.0\Reusable Component.dll
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\bin\Debug\net7.0\Reusable Component.pdb
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\scopedcss\bundle\Reusable Component.styles.css
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\scopedcss\projectbundle\Reusable Component.bundle.scp.css
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\staticwebassets.build.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\staticwebassets.development.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\staticwebassets\msbuild.Reusable Component.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\staticwebassets\msbuild.Reusable Component.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\staticwebassets\msbuild.build.Reusable Component.props
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Reusable Component.props
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Reusable Component.props
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\staticwebassets.pack.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\Reusable Component.dll
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\refint\Reusable Component.dll
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\Reusable Component.pdb
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\Reusable Component.genruntimeconfig.cache
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\Reusable Component\obj\Debug\net7.0\ref\Reusable Component.dll

@@ -1,0 +1,6 @@
+﻿<button @onclick="OnClick">@Text</button>
+
+@code {
+    [Parameter] public string Text { get; set; } = "Click Me";
+    [Parameter] public EventCallback OnClick{ get; set; }
+}
