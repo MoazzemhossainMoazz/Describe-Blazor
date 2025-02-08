@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDA0AAF-C2BB-404A-A556-4D2F7CD012B7}|BasicComponent\\BasicComponent.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\basiccomponent\\basiccomponent\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DDA0AAF-C2BB-404A-A556-4D2F7CD012B7}|BasicComponent\\BasicComponent.csproj|solutionrelative:basiccomponent\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDA0AAF-C2BB-404A-A556-4D2F7CD012B7}|BasicComponent\\BasicComponent.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\basiccomponent\\basiccomponent\\pages\\countermanual.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DDA0AAF-C2BB-404A-A556-4D2F7CD012B7}|BasicComponent\\BasicComponent.csproj|solutionrelative:basiccomponent\\pages\\countermanual.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\BasicComponent\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BasicComponent\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\BasicComponent\\Shared\\NavMenu.razor*",
+              "RelativeToolTip": "BasicComponent\\Shared\\NavMenu.razor*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T17:49:56.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CounterManual.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\BasicComponent\\Pages\\CounterManual.razor",
+              "RelativeDocumentMoniker": "BasicComponent\\Pages\\CounterManual.razor",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\BasicComponent\\Pages\\CounterManual.razor",
+              "RelativeToolTip": "BasicComponent\\Pages\\CounterManual.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T17:44:17.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
