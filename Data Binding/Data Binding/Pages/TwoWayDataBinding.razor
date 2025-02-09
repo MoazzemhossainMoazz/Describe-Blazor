@@ -1,0 +1,9 @@
+﻿@page "/twoway"
+<h3>Two way binding</h3>
+<input @bind-value="message" />
+
+<p>You typed:@message</p>
+
+@code {
+    private string message = "Type someting...";
+}

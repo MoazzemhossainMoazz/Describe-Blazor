@@ -1,0 +1,36 @@
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\bin\Debug\net7.0\appsettings.Development.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\bin\Debug\net7.0\appsettings.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\bin\Debug\net7.0\Data Binding.staticwebassets.runtime.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\bin\Debug\net7.0\Data Binding.staticwebassets.endpoints.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\bin\Debug\net7.0\Data Binding.exe
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\bin\Debug\net7.0\Data Binding.deps.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\bin\Debug\net7.0\Data Binding.runtimeconfig.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\bin\Debug\net7.0\Data Binding.dll
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\bin\Debug\net7.0\Data Binding.pdb
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\Data Binding.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\Data Binding.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\Data Binding.AssemblyInfo.cs
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\Data Binding.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\Data Binding.MvcApplicationPartsAssemblyInfo.cache
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\Data Binding.RazorAssemblyInfo.cache
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\Data Binding.RazorAssemblyInfo.cs
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\Data Binding.sourcelink.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\scopedcss\bundle\Data Binding.styles.css
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\scopedcss\projectbundle\Data Binding.bundle.scp.css
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\staticwebassets.build.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\staticwebassets.development.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\staticwebassets\msbuild.Data Binding.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\staticwebassets\msbuild.Data Binding.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\staticwebassets\msbuild.build.Data Binding.props
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Data Binding.props
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Data Binding.props
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\staticwebassets.pack.json
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\Data Binding.dll
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\refint\Data Binding.dll
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\Data Binding.pdb
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\Data Binding.genruntimeconfig.cache
+D:\TechnoArt\My Work\Blazor\Describe Blazor\Data Binding\Data Binding\obj\Debug\net7.0\ref\Data Binding.dll
