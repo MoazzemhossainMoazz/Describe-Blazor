@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OneWay DtaBinding.props" />
+</Project>

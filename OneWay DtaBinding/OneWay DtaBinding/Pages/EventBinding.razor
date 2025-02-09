@@ -1,0 +1,33 @@
+﻿@page "/eventbinding"
+
+<h3>Event Binding</h3>
+
+<p>Counter: @count1</p>
+<button @onclick="IncrementCounter1">Onclick</button>
+
+<p>Counter: @count2</p>
+<button @onmouseover="IncrementCounter2">Onmouseover</button>
+
+<p>Counter: @count3</p>
+<button @onkeydown="IncrementCounter3">Onkeydown</button>
+
+@code {
+    private int count1 = 0;
+    private int count2 = 0;
+    private int count3 = 0;
+
+    private void IncrementCounter1()
+    {
+        count1++;
+    }
+
+    private void IncrementCounter2()
+    {
+        count2++;
+    }
+
+    private void IncrementCounter3()
+    {
+        count3++;
+    }
+}
