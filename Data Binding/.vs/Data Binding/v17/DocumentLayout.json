@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{86A7ED8F-08B3-4CF5-87AA-992C135E366A}|Data Binding\\Data Binding.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\data binding\\data binding\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A7ED8F-08B3-4CF5-87AA-992C135E366A}|Data Binding\\Data Binding.csproj|solutionrelative:data binding\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86A7ED8F-08B3-4CF5-87AA-992C135E366A}|Data Binding\\Data Binding.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\data binding\\data binding\\pages\\eventbinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{86A7ED8F-08B3-4CF5-87AA-992C135E366A}|Data Binding\\Data Binding.csproj|solutionrelative:data binding\\pages\\eventbinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{86A7ED8F-08B3-4CF5-87AA-992C135E366A}|Data Binding\\Data Binding.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\data binding\\data binding\\pages\\onewaydatabinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{86A7ED8F-08B3-4CF5-87AA-992C135E366A}|Data Binding\\Data Binding.csproj|solutionrelative:data binding\\pages\\onewaydatabinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86A7ED8F-08B3-4CF5-87AA-992C135E366A}|Data Binding\\Data Binding.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\data binding\\data binding\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86A7ED8F-08B3-4CF5-87AA-992C135E366A}|Data Binding\\Data Binding.csproj|solutionrelative:data binding\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,34 +41,38 @@
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "Data Binding\\Shared\\NavMenu.razor",
               "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Shared\\NavMenu.razor",
               "RelativeToolTip": "Data Binding\\Shared\\NavMenu.razor",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-09T06:23:34.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EventBinding.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Pages\\EventBinding.razor",
               "RelativeDocumentMoniker": "Data Binding\\Pages\\EventBinding.razor",
               "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Pages\\EventBinding.razor",
               "RelativeToolTip": "Data Binding\\Pages\\EventBinding.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-09T06:23:08.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TwoWayDataBinding.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Pages\\TwoWayDataBinding.razor",
               "RelativeDocumentMoniker": "Data Binding\\Pages\\TwoWayDataBinding.razor",
@@ -76,12 +80,11 @@
               "RelativeToolTip": "Data Binding\\Pages\\TwoWayDataBinding.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T06:22:43.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T06:22:43.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OneWayDataBinding.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Pages\\OneWayDataBinding.razor",
               "RelativeDocumentMoniker": "Data Binding\\Pages\\OneWayDataBinding.razor",
@@ -89,8 +92,7 @@
               "RelativeToolTip": "Data Binding\\Pages\\OneWayDataBinding.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T06:22:25.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T06:22:25.154Z"
             }
           ]
         }

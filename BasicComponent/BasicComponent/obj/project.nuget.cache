@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y4twYEdOLrw=",
+  "dgSpecHash": "sFNK+ioXr2k=",
   "success": true,
   "projectFilePath": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\BasicComponent\\BasicComponent\\BasicComponent.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.102\\microsoft.net.sdk.compilers.toolset.9.0.102.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
