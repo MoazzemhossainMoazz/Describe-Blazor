@@ -1,0 +1,17 @@
+﻿@page "/combined"
+
+<h3>Combined Example</h3>
+
+<input @bind="message" />
+<button @onclick="UpdateMessage">Set Default</button>
+
+<p>Current message: @message</p>
+
+@code {
+    private string message = "Type here...";
+
+    private void UpdateMessage()
+    {
+        message = "Hello, Blazor!";
+    }
+}

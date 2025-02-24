@@ -24,6 +24,14 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/TechnoArt/My Work/Blazor/Describe Blazor/Data Binding/Data Binding/Pages/BindingDifferentDataTypes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZGluZ0RpZmZlcmVudERhdGFUeXBlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TechnoArt/My Work/Blazor/Describe Blazor/Data Binding/Data Binding/Pages/CombiningTwo-WayBinding&Events.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tYmluaW5nVHdvLVdheUJpbmRpbmcmRXZlbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/TechnoArt/My Work/Blazor/Describe Blazor/Data Binding/Data Binding/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

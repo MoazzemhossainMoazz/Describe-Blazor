@@ -1,0 +1,16 @@
+﻿@page "/DiffData"
+
+<input type="number" @bind="age" />
+<p>Age: @age</p>
+
+@code {
+    private int age = 25;
+}
+
+<input type="checkbox" @bind="isChecked" />
+<p>Checkbox is: @(isChecked ? "Checked" : "Unchecked")</p>
+
+@code {
+    private bool isChecked = true;
+}
+
