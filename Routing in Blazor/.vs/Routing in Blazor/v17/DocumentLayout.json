@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "Routing\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Routing in Blazor\\Routing\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Routing\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAABgAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-24T13:44:58.512Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "Routing\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T13:43:33.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T13:43:33.654Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "Routing\\Components\\Pages\\About.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T13:42:10.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T13:42:10.985Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "Routing\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T13:39:26.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T13:39:26.884Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "Routing in Blazor\\Components\\Pages\\Weather.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T13:37:42.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T13:37:42.837Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "Routing in Blazor\\Components\\Pages\\Error.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T13:37:38.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T13:37:38.878Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "Routing in Blazor\\Components\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T13:37:37.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T13:37:37.134Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "Routing in Blazor\\Components\\Pages\\About.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T13:34:58.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T13:34:58.589Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "Routing in Blazor\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T13:33:53.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T13:33:53.63Z"
             }
           ]
         }

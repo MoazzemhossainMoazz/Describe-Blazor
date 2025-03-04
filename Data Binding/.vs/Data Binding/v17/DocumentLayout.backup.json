@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{86A7ED8F-08B3-4CF5-87AA-992C135E366A}|Data Binding\\Data Binding.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\data binding\\data binding\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A7ED8F-08B3-4CF5-87AA-992C135E366A}|Data Binding\\Data Binding.csproj|solutionrelative:data binding\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A7ED8F-08B3-4CF5-87AA-992C135E366A}|Data Binding\\Data Binding.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\data binding\\data binding\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A7ED8F-08B3-4CF5-87AA-992C135E366A}|Data Binding\\Data Binding.csproj|solutionrelative:data binding\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86A7ED8F-08B3-4CF5-87AA-992C135E366A}|Data Binding\\Data Binding.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\data binding\\data binding\\pages\\bindingdifferentdatatypes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{86A7ED8F-08B3-4CF5-87AA-992C135E366A}|Data Binding\\Data Binding.csproj|solutionrelative:data binding\\pages\\bindingdifferentdatatypes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -51,19 +59,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "Data Binding\\Pages\\FetchData.razor",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Pages\\FetchData.razor",
+              "RelativeToolTip": "Data Binding\\Pages\\FetchData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T13:27:15.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\App.razor",
+              "RelativeDocumentMoniker": "Data Binding\\App.razor",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\App.razor",
+              "RelativeToolTip": "Data Binding\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T13:18:54.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BindingDifferentDataTypes.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Pages\\BindingDifferentDataTypes.razor",
               "RelativeDocumentMoniker": "Data Binding\\Pages\\BindingDifferentDataTypes.razor",
               "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Pages\\BindingDifferentDataTypes.razor",
               "RelativeToolTip": "Data Binding\\Pages\\BindingDifferentDataTypes.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T12:46:53.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T12:46:53.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CombiningTwo-WayBinding\u0026Events.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Pages\\CombiningTwo-WayBinding\u0026Events.razor",
               "RelativeDocumentMoniker": "Data Binding\\Pages\\CombiningTwo-WayBinding\u0026Events.razor",
@@ -71,12 +103,11 @@
               "RelativeToolTip": "Data Binding\\Pages\\CombiningTwo-WayBinding\u0026Events.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T12:05:13.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T12:05:13.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "Data Binding\\Shared\\NavMenu.razor",
@@ -84,12 +115,11 @@
               "RelativeToolTip": "Data Binding\\Shared\\NavMenu.razor",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T06:23:34.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T06:23:34.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EventBinding.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Pages\\EventBinding.razor",
               "RelativeDocumentMoniker": "Data Binding\\Pages\\EventBinding.razor",
@@ -97,12 +127,11 @@
               "RelativeToolTip": "Data Binding\\Pages\\EventBinding.razor",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T06:23:08.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T06:23:08.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TwoWayDataBinding.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Pages\\TwoWayDataBinding.razor",
               "RelativeDocumentMoniker": "Data Binding\\Pages\\TwoWayDataBinding.razor",
@@ -110,12 +139,11 @@
               "RelativeToolTip": "Data Binding\\Pages\\TwoWayDataBinding.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T06:22:43.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T06:22:43.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "OneWayDataBinding.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Pages\\OneWayDataBinding.razor",
               "RelativeDocumentMoniker": "Data Binding\\Pages\\OneWayDataBinding.razor",
@@ -123,8 +151,7 @@
               "RelativeToolTip": "Data Binding\\Pages\\OneWayDataBinding.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T06:22:25.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T06:22:25.154Z"
             }
           ]
         }

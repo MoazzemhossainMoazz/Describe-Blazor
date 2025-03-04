@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "Data Binding\\Pages\\FetchData.razor",
               "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Data Binding\\Data Binding\\Pages\\FetchData.razor",
               "RelativeToolTip": "Data Binding\\Pages\\FetchData.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-24T13:27:15.749Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "Data Binding\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T13:18:54.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T13:18:54.637Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "Data Binding\\Pages\\BindingDifferentDataTypes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T12:46:53.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T12:46:53.205Z"
             },
             {
               "$type": "Document",

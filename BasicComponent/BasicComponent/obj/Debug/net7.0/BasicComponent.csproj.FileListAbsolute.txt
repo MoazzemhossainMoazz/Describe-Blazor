@@ -33,3 +33,4 @@ D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\BasicComponent\obj\De
 D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\BasicComponent\obj\Debug\net7.0\BasicComponent.pdb
 D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\BasicComponent\obj\Debug\net7.0\BasicComponent.genruntimeconfig.cache
 D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\BasicComponent\obj\Debug\net7.0\ref\BasicComponent.dll
+D:\TechnoArt\My Work\Blazor\Describe Blazor\BasicComponent\BasicComponent\obj\Debug\net7.0\BasicComponent.sourcelink.json
