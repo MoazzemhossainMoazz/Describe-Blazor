@@ -11,12 +11,20 @@
       "RelativeMoniker": "D:0:0:{C81F0654-269F-4885-B1E3-8FB765B5572C}|Routing\\Routing.csproj|solutionrelative:routing\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81F0654-269F-4885-B1E3-8FB765B5572C}|Routing\\Routing.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\routing in blazor\\routing\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C81F0654-269F-4885-B1E3-8FB765B5572C}|Routing\\Routing.csproj|solutionrelative:routing\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C81F0654-269F-4885-B1E3-8FB765B5572C}|Routing\\Routing.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\routing in blazor\\routing\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C81F0654-269F-4885-B1E3-8FB765B5572C}|Routing\\Routing.csproj|solutionrelative:routing\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C81F0654-269F-4885-B1E3-8FB765B5572C}|Routing\\Routing.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\routing in blazor\\routing\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C81F0654-269F-4885-B1E3-8FB765B5572C}|Routing\\Routing.csproj|solutionrelative:routing\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81F0654-269F-4885-B1E3-8FB765B5572C}|Routing\\Routing.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\routing in blazor\\routing\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C81F0654-269F-4885-B1E3-8FB765B5572C}|Routing\\Routing.csproj|solutionrelative:routing\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81F0654-269F-4885-B1E3-8FB765B5572C}|Routing\\Routing.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\routing in blazor\\routing\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C81F0654-269F-4885-B1E3-8FB765B5572C}|Routing\\Routing.csproj|solutionrelative:routing\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7F42D3A-6E1C-4ECB-9BDD-6D0578C69F2C}|Routing in Blazor\\Routing in Blazor.csproj|d:\\technoart\\my work\\blazor\\describe blazor\\routing in blazor\\routing in blazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,13 +70,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Routing in Blazor\\Routing\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Routing\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Routing in Blazor\\Routing\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Routing\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T17:14:27.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Routing in Blazor\\Routing\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Routing\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Routing in Blazor\\Routing\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Routing\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T17:14:20.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Routing in Blazor\\Routing\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Routing\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Routing in Blazor\\Routing\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Routing\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-24T13:44:58.512Z",
               "EditorCaption": ""
@@ -81,13 +115,14 @@
               "RelativeDocumentMoniker": "Routing\\Components\\Layout\\MainLayout.razor",
               "ToolTip": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Routing in Blazor\\Routing\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Routing\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T13:43:33.654Z"
+              "WhenOpened": "2025-02-24T13:43:33.654Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "About.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Routing in Blazor\\Routing\\Components\\Pages\\About.razor",
               "RelativeDocumentMoniker": "Routing\\Components\\Pages\\About.razor",
@@ -107,11 +142,12 @@
               "RelativeToolTip": "Routing\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T13:39:26.884Z"
+              "WhenOpened": "2025-02-24T13:39:26.884Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Weather.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Routing in Blazor\\Routing in Blazor\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Routing in Blazor\\Components\\Pages\\Weather.razor",
@@ -123,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Error.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Routing in Blazor\\Routing in Blazor\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "Routing in Blazor\\Components\\Pages\\Error.razor",
@@ -135,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Counter.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Routing in Blazor\\Routing in Blazor\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Routing in Blazor\\Components\\Pages\\Counter.razor",
@@ -147,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "About.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Routing in Blazor\\Routing in Blazor\\Components\\Pages\\About.razor",
               "RelativeDocumentMoniker": "Routing in Blazor\\Components\\Pages\\About.razor",
@@ -159,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Home.razor",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Blazor\\Describe Blazor\\Routing in Blazor\\Routing in Blazor\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Routing in Blazor\\Components\\Pages\\Home.razor",
